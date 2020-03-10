@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="order_textview" type="id">order_textview</item>
+    <item name="address_label" type="id">address_label</item>
+    <item name="address_text" type="id">address_text</item>
+    <item name="phone_label" type="id">phone_label</item>
+    <item name="note_label" type="id">note_label</item>
+    <item name="note_text" type="id">note_text</item>
+    <item name="delivery_label" type="id">delivery_label</item>
+    <item name="phone_text" type="id">phone_text</item>
+</resources>
